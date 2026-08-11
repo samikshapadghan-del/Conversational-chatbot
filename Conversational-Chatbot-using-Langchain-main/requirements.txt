@@ -1,6 +1,6 @@
 streamlit
 langchain==0.0.350
 langchain-community==0.0.10
-openai==0.28.1
+langchain-groq
 huggingface_hub
 python-dotenv
